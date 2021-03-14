@@ -1,0 +1,4 @@
+demo.service:
+  prefix: spring-boot-
+  suffix: .html
+  enabled: true
